@@ -2,10 +2,12 @@
 
 Base code for Spring MVC and Redis implementation.
 
+Tested using Tomcat 7 Application Server
+
 **Technologies:**
 * Spring MVC `v3.2.4.RELEASE`
 * Spring Security `v3.1.4.RELEASE`
-* Jedis `v2.1`
+* Spring Data Redis `v1.1.0.RELEASE`
 * JEE `v7.0`
 
 ### Usage
